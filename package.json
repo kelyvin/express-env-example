@@ -1,0 +1,19 @@
+{
+  "name": "express-env-sample",
+  "version": "1.0.0",
+  "description": "App example of express environment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "^4.2.0"
+  },
+  "author": "Kelvin Nguyen",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "lodash": "^4.17.4"
+  }
+}
