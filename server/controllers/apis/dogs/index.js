@@ -2,7 +2,7 @@
 
 const
     express = require('express'),
-    dogService = require('../../../service/dogs');
+    dogService = require('../../../services/dogs');
 
 let router = express.Router();
 
