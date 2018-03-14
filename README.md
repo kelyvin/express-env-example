@@ -3,6 +3,8 @@
 This is an express environment example that I wrote to demonstrate modular Express routing patterns. This environment enables easy extensibility, scalability, and proper software design practices.
 
 
+**03/13/2018 Update**: An improved/advanced version of this architecture will be uploaded in the near future, be on the lookout.
+
 ## Running
 To start and run the project/server, simply run the following command in your root directory:
 
